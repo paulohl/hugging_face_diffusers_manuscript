@@ -4,11 +4,11 @@ ___
 ## Subtitle
 Mastering NLP: Practical Techniques with Hugging Face for Advanced Language Applications.
 
-__
+____
 ## PacktPub Metadescription
 Unlock the full potential of NLP with 'Hugging Face Diffusers': Gain practical skills to advance your projects with cutting-edge techniques.
 
-___
+_____
 ## Key Features
 *	Master NLP with hands-on projects.
 *	Explore advanced uses of Hugging Face models.
