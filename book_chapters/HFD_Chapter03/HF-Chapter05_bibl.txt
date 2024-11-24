@@ -1,0 +1,15 @@
+Lample, G.; Ballesteros, M.; Subramanian, S.; Kawakami, K.;   Dyer, C. (2016). Neural architectures for named entity recognition. arXiv preprint arXiv:1603.01360.
+Devlin, J.; Chang, M. W.; Lee, K.;   Toutanova, K. (2018). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+Mikolov, T.; Chen, K.; Corrado, G.;   Dean, J. (2013). Efficient estimation of word representations in vector space. arXiv preprint arXiv:1301.3781.
+Pennington, J.; Socher, R.;   Manning, C. D. (2014). Glove: Global vectors for word representation. In Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP) (pp. 1532-1543).
+Honnibal, M.;   Montani, I. (2017). spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing. To appear.
+McCallum, A. (2005). Information extraction: Distilling structured data from unstructured text. Queue, 3(9), 48-57.
+Jagannatha, A.;   Yu, H. (2016). Structured prediction models for RNN based sequence labeling in clinical text. Proceedings of the Conference on Empirical Methods in Natural Language Processing, 856-865.
+Pang, B.;   Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends® in Information Retrieval, 2(1-2), 1-135.
+Lafferty, J.; McCallum, A.;   Pereira, F. C. N. (2001). Conditional random fields: Probabilistic models for segmenting and labeling sequence data. Proceedings of the Eighteenth International Conference on Machine Learning.
+Devlin, J.; Chang, M.-W.; Lee, K.;   Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. NAACL-HLT.
+Jagannatha, A.; Yu, H. (2016). Structured prediction models for RNN based sequence labeling in clinical text. Proceedings of the Conference on Empirical Methods in Natural Language Processing.
+Manning, C. D. (2011). Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics? In Computational Linguistics and Intelligent Text Processing.
+Huang, Z.; Xu, W.;   Yu, K. (2015). Bidirectional LSTM-CRF Models for Sequence Tagging. arXiv preprint arXiv:1508.01991.
+Devlin, J.; et al. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. NAACL-HLT.
+Manning, C. D.; et al. (2014). The Stanford CoreNLP Natural Language Processing Toolkit. Association for Computational Linguistics (ACL) System Demonstrations, pages 55–60.
