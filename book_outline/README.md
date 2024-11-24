@@ -4,7 +4,7 @@
 
   
 
-## PART 1: Foundations of Hugging Face Diffusers Library 
+# PART 1: Foundations of Hugging Face Diffusers Library 
 
 Part 1 of the book serves as an introduction to the Hugging Face Diffusers library and its applications in natural language processing (NLP). Readers will gain a foundational understanding of NLP concepts, deep learning fundamentals, and the role of the Hugging Face Diffusers library in enabling state-of-the-art NLP solutions. 
 
@@ -69,7 +69,7 @@ Gain proficiency in deploying NLP models for inference and production use.
 
  
 
-## PART 2: Practical Applications of Hugging Face Diffusers Library 
+# PART 2: Practical Applications of Hugging Face Diffusers Library 
 
 Part 2 of the book explores practical applications of the Hugging Face Diffusers library in solving real-world generative tasks and natural language processing (NLP) problems. Readers will gain proficiency in leveraging the library for various tasks, including image generation, text-to-image, text generation, text classification, sequence labeling, and advanced generative tasks. 
 
@@ -253,7 +253,7 @@ Applying transfer learning to real-world NLP problems
 
  
 
-## PART 3: Advanced Applications with Hugging Face Diffusers 
+# PART 3: Advanced Applications with Hugging Face Diffusers 
 
 Part 3 of the book focuses on advanced applications of the Hugging Face Diffusers library, including pipelines, schedulers, and advanced inference techniques. 
 
@@ -375,7 +375,7 @@ Applying methods to ensure high-quality model outputs in various applications
 
  
 
-## PART 4: Advanced Applications with Hugging Face Diffusers 
+# PART 4: Advanced Applications with Hugging Face Diffusers 
 
 Part 4 of the book explores advanced applications of the Hugging Face Diffusers library, targeting readers with intermediate to advanced proficiency in natural language processing (NLP) and related fields.  
 
