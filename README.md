@@ -1,7 +1,3 @@
-# Hugging_Face
-Hugging Face Diffusers Library book repo *Packt Publishing
-# hugging_face_diffusers
-examples, samples, and applications for the book "Hugging Face Diffusers Libraries"
 # Hugging face Diffusers PI
 ## Subtitle
 Mastering NLP: Practical Techniques with Hugging Face for Advanced Language Applications.
@@ -10,9 +6,9 @@ Mastering NLP: Practical Techniques with Hugging Face for Advanced Language Appl
 Unlock the full potential of NLP with 'Hugging Face Diffusers': Gain practical skills to advance your projects with cutting-edge techniques.
 
 ## Key Features
-•	Master NLP with hands-on projects.
-•	Explore advanced uses of Hugging Face models.
-•	Learn practical applications for real-world data.
+..*	Master NLP with hands-on projects.
+..*	Explore advanced uses of Hugging Face models.
+..*	Learn practical applications for real-world data.
 
 ## Short Description
 Dive into the future of NLP with 'Hugging Face Diffusers', a pivotal resource designed to elevate your expertise from basic to advanced levels. This book guides you through mastering state-of-the-art techniques in natural language processing using the Hugging Face library, ensuring you're equipped to tackle contemporary challenges and opportunities in AI.
