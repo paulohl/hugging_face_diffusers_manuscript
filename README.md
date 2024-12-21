@@ -1,8 +1,7 @@
 # Hugging face Diffusers PI
 
 
-ORCID 0000-0002-4992-4541
-DOI 10.6084/m9.figshare.28075280
+ORCID 0000-0002-4992-4541  ---------  DOI 10.6084/m9.figshare.28075280
 ___
 ## Subtitle
 Mastering NLP: Practical Techniques with Hugging Face for Advanced Language Applications.
