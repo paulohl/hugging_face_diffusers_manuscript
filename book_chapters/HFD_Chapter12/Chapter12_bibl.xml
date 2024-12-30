@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+  <records>
+    <record>
+      <ref-type name="Manuscript">9</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Doshi-Velez, F.</author>
+          <author>Kim, B.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Towards a rigorous science of interpretable machine learning</title>
+      </titles>
+      <dates>
+        <year>2017</year>
+      </dates>
+      <electronic-resource-num>10.48550/arxiv.1702.08608</electronic-resource-num>
+    </record>
+    <record>
+      <ref-type name="Book">2</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>O'Neil, C.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Weapons of math destruction: How big data increases inequality and threatens democracy</title>
+      </titles>
+      <dates>
+        <year>2016</year>
+      </dates>
+      <publisher>Crown Publishing Group</publisher>
+    </record>
+    <record>
+      <ref-type name="Journal Article">1</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Floridi, L.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>AI4People - An ethical framework for a good AI society: Opportunities, risks, principles, and recommendations</title>
+      </titles>
+      <periodical>
+        <full-title>Minds and Machines</full-title>
+      </periodical>
+      <dates>
+        <year>2018</year>
+        <pub-dates>
+          <date>2018</date>
+        </pub-dates>
+      </dates>
+      <pages>689, 707</pages>
+      <volume>28</volume>
+      <number>4</number>
+    </record>
+    <record>
+      <ref-type name="Book">2</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Brynjolfsson, E.</author>
+          <author>McAfee, A.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>The second machine age: Work, progress, and prosperity in a time of brilliant technologies</title>
+      </titles>
+      <dates>
+        <year>2014</year>
+      </dates>
+      <publisher>W.W. Norton and Company</publisher>
+    </record>
+    <record>
+      <ref-type name="Book">2</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Russell, S.</author>
+          <author>Norvig, P.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>Artificial Intelligence: A modern approach</title>
+      </titles>
+      <dates>
+        <year>2020</year>
+      </dates>
+      <publisher>Pearson</publisher>
+      <edition>Fourth edition</edition>
+    </record>
+    <record>
+      <ref-type name="Journal Article">1</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Frey, C. B.</author>
+          <author>Osborne, M. A.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>The future of employment: How susceptible are jobs to computerisation?</title>
+      </titles>
+      <periodical>
+        <full-title>Technological Forecasting and Social Change</full-title>
+      </periodical>
+      <dates>
+        <year>2017</year>
+      </dates>
+      <pages>254, 280</pages>
+      <volume>114</volume>
+    </record>
+    <record>
+      <ref-type name="Book">2</ref-type>
+      <database name="MyLibrary">Chapter12_bibl.bib</database>
+      <source-app name="JabRef">JabRef</source-app>
+      <contributors>
+        <authors>
+          <author>Zuboff, S.</author>
+        </authors>
+      </contributors>
+      <titles>
+        <title>The age of surveillance capitalism: The fight for a human future at the new frontier of power</title>
+      </titles>
+      <dates>
+        <year>2019</year>
+      </dates>
+      <publisher>PublicAffairs</publisher>
+    </record>
+  </records>
+</xml>
