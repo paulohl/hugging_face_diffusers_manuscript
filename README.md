@@ -2,6 +2,28 @@
 
 
 ORCID 0000-0002-4992-4541  ---------  DOI 10.6084/m9.figshare.28075280
+
+## Copyright Notice
+© Paulo H. Leocadio, 2024. All Rights Reserved.
+
+This repository, including its code, documentation, designs, and associated files, is copyrighted material owned by Paulo H. Leocadio.
+
+**Restrictions**:
+Use, reuse, and distribution of this material, in whole or in part, are strictly prohibited.
+This material may only be used as a reference or cited in academic, professional, or educational contexts, provided proper attribution is given to the copyright owner.
+
+
+**Author**:
+Paulo H. Leocadio
+
+**Contact Information**:
+For permissions or inquiries, please contact: ph@zinnia.holdings
+
+**Citation Guideline**:
+When citing this work, please use the following format: "Paulo H. Leocadio, Hugging Face Diffusers Library, 2024. Pre-print / Not yet available fot the public"
+
+**Disclaimer**:
+This repository and its content are provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement. The copyright holder assumes no liability for any use of this material outside the terms explicitly stated herein.
 ___
 ## Subtitle
 Mastering NLP: Practical Techniques with Hugging Face for Advanced Language Applications.
