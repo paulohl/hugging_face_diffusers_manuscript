@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<b:Sources xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" SelectedStyle="">
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Abstractive Sentence Summarization with Attentive Recurrent Neural Networks</b:Title>
+        <b:Tag>Chopra2016</b:Tag>
+        <b:BookTitle>Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</b:BookTitle>
+        <b:DOI>10.18653/v1/N16-1012</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chopra</b:Last>
+                        <b:First>S.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Auli</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rush</b:Last>
+                        <b:Middle>M.</b:Middle>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>93, 98</b:Pages>
+        <b:ConferenceName>Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2008</b:Year>
+        <b:Volume>2</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Opinion Mining and Sentiment Analysis</b:Title>
+        <b:Tag>Pang2008</b:Tag>
+        <b:URL>https://doi.org/10.1561/1500000011</b:URL>
+        <b:DOI>10.1561/1500000011</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Pang</b:Last>
+                        <b:First>B.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Lee</b:Last>
+                        <b:First>L.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1, 135</b:Pages>
+        <b:JournalName>Foundations and Trends in Information Retrieval</b:JournalName>
+        <b:Number>1, 2</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Introduction to Information Retrieval</b:Title>
+        <b:Publisher>Cambridge University Press</b:Publisher>
+        <b:Tag>Manning2008</b:Tag>
+        <b:DOI>10.1017/CBO9780511809071</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Manning</b:Last>
+                        <b:Middle>D.</b:Middle>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Raghavan</b:Last>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Schutze</b:Last>
+                        <b:First>H.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Year>2008</b:Year>
+    </b:Source>
+    <b:Source>
+        <b:Year>2014</b:Year>
+        <b:Volume>2014</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Docker: Lightweight Linux Containers for Consistent Development and Deployment</b:Title>
+        <b:Tag>Merkel2014</b:Tag>
+        <b:URL>https://dl.acm.org/doi/abs/10.5555/2600239.2600241/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Merkel</b:Last>
+                        <b:First>D.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:JournalName>Linux Journal</b:JournalName>
+        <b:Number>239</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:Comments>Preprint arXiv:2010.02559.</b:Comments>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>LEGAL-BERT: Pretrained Transformers for Legal Text Mining</b:Title>
+        <b:Tag>Chalkidis2020</b:Tag>
+        <b:URL>https://arxiv.org/abs/2010.02559/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chalkidis</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Fergadiotis</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Malakasiotis</b:Last>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Androutsopoulos</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2019</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Automatic Evaluation of Machine Translation Quality Using Longest Common Subsequence and Skip-Bigram Statistics</b:Title>
+        <b:Tag>Lin2019</b:Tag>
+        <b:BookTitle>Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics</b:BookTitle>
+        <b:URL>https://www.aclweb.org/anthology/P04-1077/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Lin</b:Last>
+                        <b:Middle>Y.</b:Middle>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Och</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>F.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Proceedings of the 42nd Annual Meeting on Association for Computational Linguistics</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2016</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:Comments>Preprint arXiv:1608.03983.</b:Comments>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>SGDR: Stochastic Gradient Descent with Warm Restarts</b:Title>
+        <b:Tag>Loshchilov2016</b:Tag>
+        <b:URL>https://arxiv.org/abs/1608.03983/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Loshchilov</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Hutter</b:Last>
+                        <b:First>F.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2021</b:Year>
+        <b:BIBTEX_Entry>book</b:BIBTEX_Entry>
+        <b:SourceType>Book</b:SourceType>
+        <b:Title>Speech and Language Processing</b:Title>
+        <b:Tag>Jurafsky2021</b:Tag>
+        <b:Edition>Third</b:Edition>
+        <b:URL>https://web.stanford.edu/ jurafsky/slp3/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Jurafsky</b:Last>
+                        <b:First>D.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Martin</b:Last>
+                        <b:Middle>H.</b:Middle>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2018</b:Year>
+        <b:Volume>22</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Deep EHR: A Survey of Recent Advances in Deep Learning Techniques for Electronic Health Record (EHR) Analysis</b:Title>
+        <b:Tag>Shickel2018</b:Tag>
+        <b:DOI>10.1109/JBHI.2017.2767063</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Shickel</b:Last>
+                        <b:First>B.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Tighe</b:Last>
+                        <b:Middle>J.</b:Middle>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Bihorac</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rashidi</b:Last>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>1589, 1604</b:Pages>
+        <b:JournalName>IEEE Journal of Biomedical and Health Informatics</b:JournalName>
+        <b:Number>5</b:Number>
+    </b:Source>
+    <b:Source>
+        <b:Year>2017</b:Year>
+        <b:Volume>134</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Real-Time Monitoring of Large-Scale Systems with Prometheus</b:Title>
+        <b:Tag>Tzoumas2017</b:Tag>
+        <b:DOI>10.1016/j.jss.2017.08.013</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Tzoumas</b:Last>
+                        <b:First>K.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Boncz</b:Last>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Zeller</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>145, 158</b:Pages>
+        <b:JournalName>Journal of Systems and Software</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Transformers: State-of-the-Art Natural Language Processing</b:Title>
+        <b:Publisher>Association for Computational Linguistics</b:Publisher>
+        <b:Tag>Wolf2020</b:Tag>
+        <b:BookTitle>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</b:BookTitle>
+        <b:URL>https://doi.org/10.18653/v1/2020.emnlp-demos.6</b:URL>
+        <b:DOI>10.18653/v1/2020.emnlp-demos.6</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Wolf</b:Last>
+                        <b:First>T.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Debut</b:Last>
+                        <b:First>L.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sanh</b:Last>
+                        <b:First>V.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Chaumond</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Delangue</b:Last>
+                        <b:First>C.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Moi</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Cistac</b:Last>
+                        <b:First>P.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Rault</b:Last>
+                        <b:First>T.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Louf</b:Last>
+                        <b:First>R.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Funtowicz</b:Last>
+                        <b:First>M.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Brew</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>38, 45</b:Pages>
+        <b:ConferenceName>Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2020</b:Year>
+        <b:Volume>146</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Load Balancing Techniques for Web Applications</b:Title>
+        <b:Tag>Chandra2020</b:Tag>
+        <b:URL>https://doi.org/10.1016/j.jnca.2019.102445/</b:URL>
+        <b:DOI>10.1016/j.jnca.2019.102445</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Chandra</b:Last>
+                        <b:First>D.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Gupta</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sharma</b:Last>
+                        <b:First>S.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>102445</b:Pages>
+        <b:JournalName>Journal of Network and Computer Applications</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Adam: A Method for Stochastic Optimization</b:Title>
+        <b:Tag>Kingma2015</b:Tag>
+        <b:BookTitle>Proceedings of the 3rd International Conference on Learning Representations (ICLR)</b:BookTitle>
+        <b:URL>https://arxiv.org/abs/1412.6980/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Kingma</b:Last>
+                        <b:Middle>P.</b:Middle>
+                        <b:First>D.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Ba</b:Last>
+                        <b:Middle>L.</b:Middle>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>Proceedings of the 3rd International Conference on Learning Representations (ICLR)</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2017</b:Year>
+        <b:BIBTEX_Entry>inproceedings</b:BIBTEX_Entry>
+        <b:SourceType>ConferenceProceedings</b:SourceType>
+        <b:Title>Cyclical Learning Rates for Training Neural Networks</b:Title>
+        <b:Tag>Smith2017</b:Tag>
+        <b:BookTitle>2017 IEEE Winter Conference on Applications of Computer Vision (WACV)</b:BookTitle>
+        <b:URL>https://arxiv.org/abs/1506.01186/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Smith</b:Last>
+                        <b:Middle>N.</b:Middle>
+                        <b:First>L.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:ConferenceName>2017 IEEE Winter Conference on Applications of Computer Vision (WACV)</b:ConferenceName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2013</b:Year>
+        <b:Volume>26</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Distributed Representations of Words and Phrases and Their Compositionality</b:Title>
+        <b:Tag>Mikolov2013</b:Tag>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Mikolov</b:Last>
+                        <b:First>T.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Sutskever</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Chen</b:Last>
+                        <b:First>K.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Corrado</b:Last>
+                        <b:Middle>S.</b:Middle>
+                        <b:First>G.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Dean</b:Last>
+                        <b:First>J.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>3111, 3119</b:Pages>
+        <b:JournalName>Advances in Neural Information Processing Systems</b:JournalName>
+    </b:Source>
+    <b:Source>
+        <b:Year>2013</b:Year>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:Comments>Preprint arXiv:1409.3215.</b:Comments>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Sequence to Sequence Learning with Neural Networks</b:Title>
+        <b:Tag>Sutskever2013</b:Tag>
+        <b:URL>https://arxiv.org/abs/1409.3215/</b:URL>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Sutskever</b:Last>
+                        <b:First>I.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Vinyals</b:Last>
+                        <b:First>O.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Le</b:Last>
+                        <b:Middle>V.</b:Middle>
+                        <b:First>Q.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+    </b:Source>
+    <b:Source>
+        <b:Year>2015</b:Year>
+        <b:Volume>57</b:Volume>
+        <b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+        <b:SourceType>JournalArticle</b:SourceType>
+        <b:Title>Performance Testing with Apache JMeter</b:Title>
+        <b:Tag>Rodriguez2015</b:Tag>
+        <b:URL>https://doi.org/10.1093/itnow/bwv029/</b:URL>
+        <b:DOI>10.1093/itnow/bwv029</b:DOI>
+        <b:Author>
+            <b:Author>
+                <b:NameList>
+                    <b:Person>
+                        <b:Last>Rodriguez</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Tovar</b:Last>
+                        <b:First>A.</b:First>
+                    </b:Person>
+                    <b:Person>
+                        <b:Last>Riva</b:Last>
+                        <b:First>S.</b:First>
+                    </b:Person>
+                </b:NameList>
+            </b:Author>
+        </b:Author>
+        <b:Pages>26, 27</b:Pages>
+        <b:JournalName>ITNOW</b:JournalName>
+        <b:Number>2</b:Number>
+    </b:Source>
+</b:Sources>
