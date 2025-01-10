@@ -1,9 +1,0 @@
-Devlin, J., Chang, M., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. arXiv preprint arXiv:1810.04805.
-Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I. (2017). Attention is All You Need. In Advances in Neural Information Processing Systems (NIPS) (pp. 5998-6008).
-Jurado, R., & Roselló, R. (2021). A Survey of Deep Learning in Medicine: Analyzing the Impact of Deep Learning in Disease Diagnosis. Computational Intelligence, 37(2), 321-344.
-Rao, D., & McMahan, B. (2019). Natural Language Processing with PyTorch: Build Intelligent Language Applications Using Deep Learning. O'Reilly Media.
-Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep Learning. MIT Press.
-Rothman, D. (2021). Transformers for Natural Language Processing: Build and Train State-of-the-Art Models. Packt Publishing.
-Wolf, T., Sanh, V., Chaumond, J., & Delangue, C. (2020). Transformers: State-of-the-Art Natural Language Processing. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing: System Demonstrations (pp. 38-45).
-Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., ... & Duchesnay, É. (2011). Scikit-learn: Machine learning in Python. Journal of Machine Learning Research, 12, 2825-2830.
-Zhang, C., Bengio, S., Hardt, M., Recht, B., & Vinyals, O. (2020). Understanding deep learning requires rethinking generalization. In Proceedings of the 7th International Conference on Learning Representations (ICLR).
