@@ -1,0 +1,47 @@
+# --------------------------------------
+# Python-related ignores
+# --------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter Notebook metadata caches
+*.nbconvert.ipynb
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# VS Code or JetBrains IDEs
+.vscode/
+.idea/
+
+# macOS & Windows system files
+.DS_Store
+Thumbs.db
+
+# Virtual environment folders
+.env/
+.venv/
+venv/
+
+# Output folders for generated images or samples
+outputs/
+results/
+samples/
+
+# Model artifacts and large files (you can change this per chapter if needed)
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.onnx
+
+# Build folders or experiment artifacts
+artifacts/
+checkpoints/
+runs/
