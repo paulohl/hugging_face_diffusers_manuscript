@@ -1,16 +1,17 @@
 # 📘 Hugging Face Diffusers: The Book
 
-> _A practical, research-driven companion to mastering the Hugging Face Diffusers library for generative AI and beyond._
+_A practical, research-driven companion to mastering the Hugging Face Diffusers library for generative AI and beyond._
 
 ---
 
 Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**, where each chapter is a live, runnable, and expandable module.
 
 This repository is structured to let you:
-- Explore notebooks and code per chapter
-- Experiment with real pipelines
-- Run examples directly on your machine or in the cloud
-- Understand how the theory maps into production AI workflows
+
+- 📚 Explore notebooks and code per chapter  
+- 🔁 Experiment with real pipelines  
+- 💻 Run examples directly on your machine or in the cloud  
+- 🧠 Understand how the theory maps into production AI workflows  
 
 ---
 
@@ -18,12 +19,12 @@ This repository is structured to let you:
 
 Each subfolder in this directory corresponds to a chapter in the book:
 
-
 All chapters follow this structure:
-- `README.md`: Chapter description
-- `*.ipynb`: One or more Jupyter notebooks
-- `config/`: Model configuration and checkpoints (if needed)
-- `outputs/`: Generated samples and visual outputs
+
+- `README.md`: Chapter description  
+- `*.ipynb`: One or more Jupyter notebooks  
+- `config/`: Model configuration and checkpoints (if needed)  
+- `outputs/`: Generated samples and visual outputs  
 
 ---
 
