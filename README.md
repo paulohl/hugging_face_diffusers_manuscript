@@ -5,7 +5,8 @@
 # Hugging face Diffusers PI - code and illustrations only
 
 
-ORCID 0000-0002-4992-4541  ---------  DOI 10.6084/m9.figshare.28075280
+![image](https://github.com/user-attachments/assets/5fe37ff5-ead8-4517-afbf-c802db35ec69)
+ORCID 0000-0002-4992-4541  ---------  (provisory) DOI 10.6084/m9.figshare.28075280
 
 ## Copyright Notice
 © Paulo H. Leocadio, 2024. All Rights Reserved.
@@ -84,3 +85,7 @@ Hugging Face Diffusers' offers an in-depth exploration of advanced NLP technique
 ___
 ## Author Bio
 Paulo H. Leocadio is an esteemed Electronics and Computer Sciences Engineer with a rich background in VLSI Solid State. He holds a master’s in business administration with a focus on International Business and a post-graduate certificate in Data Sciences. With over 40 years of experience in the technology sector, including two decades at Microsoft Corp., Paulo is at the forefront of Smart Cities initiatives and AI research. An accomplished author with numerous articles and books on science and technology, he continues to shape the future of AI and data sciences.
+
+___
+![image](https://github.com/user-attachments/assets/ffe21e92-004d-445f-9e50-5cb4689d33a3)
+# BPB Publications
