@@ -37,3 +37,4 @@ git clone https://github.com/YOURNAME/YOURREPO.git
 cd YOURREPO/HFD_book_root/HFD_Chapter02
 pip install -r requirements.txt
 jupyter notebook diffusion_basics.ipynb
+```
