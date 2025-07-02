@@ -8,7 +8,7 @@ _A practical, research-driven companion to mastering the Hugging Face Diffusers 
 
 ---
 
-Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**, where each chapter is a live, runnable, and expandable module.
+Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**🤗, where each chapter is a live, runnable, and expandable module.
 
 This repository is structured to let you:
 
@@ -57,3 +57,13 @@ cd YOURREPO/HFD_book_root/HFD_Chapter02
 pip install -r requirements.txt
 jupyter notebook diffusion_basics.ipynb
 ```
+
+---
+
+## Copyright Notice
+© Paulo H. Leocadio, 2024. All Rights Reserved.  
+ORCID 0000-0002-4992-4541  
+placeholder DOI 10.6084/m9.figshare.28075280
+
+
+This repository, including its code, documentation, designs, and associated files, is copyrighted material owned by Paulo H. Leocadio.
