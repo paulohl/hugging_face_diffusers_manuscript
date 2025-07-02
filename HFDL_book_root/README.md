@@ -62,8 +62,16 @@ jupyter notebook diffusion_basics.ipynb
 
 ## Copyright Notice
 © Paulo H. Leocadio, 2024. All Rights Reserved.  
+![image](https://github.com/user-attachments/assets/47592165-ad96-4f5e-abbb-533977806387)
 ORCID 0000-0002-4992-4541  
-placeholder DOI 10.6084/m9.figshare.28075280
+(provisory) DOI® 10.6084/m9.figshare.28075280
 
 
 This repository, including its code, documentation, designs, and associated files, is copyrighted material owned by Paulo H. Leocadio.
+
+---
+
+![image](https://github.com/user-attachments/assets/f5bf31bd-4710-4a98-8fe4-71ec70bdbeab)
+# BPG Publications
+
+---
