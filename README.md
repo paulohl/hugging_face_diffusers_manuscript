@@ -1,3 +1,7 @@
+<p align="center"> 
+<img src="https://huggingface.co/front/thumbnails/docs/diffusers.png" width="300px">
+</p>
+
 # Hugging face Diffusers PI - code and illustrations only
 
 
