@@ -8,7 +8,7 @@ _A practical, research-driven companion to mastering the Hugging Face Diffusers 
 
 ---
 
-Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**🤗, where each chapter is a live, runnable, and expandable module.
+Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**  🤗, where each chapter is a live, runnable, and expandable module.
 
 This repository is structured to let you:
 
