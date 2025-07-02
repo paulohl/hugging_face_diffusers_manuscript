@@ -1,4 +1,4 @@
-# Hugging face Diffusers PI
+# Hugging face Diffusers PI - code and illustrations only
 
 
 ORCID 0000-0002-4992-4541  ---------  DOI 10.6084/m9.figshare.28075280
