@@ -1,3 +1,7 @@
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/huggingface/diffusers/77aadfee6a891ab9fcfb780f87c693f7a5beeb8e/docs/source/imgs/diffusers_library.jpg" width="300px">
+</p>
+
 # 📘 Hugging Face Diffusers: The Book
 
 _A practical, research-driven companion to mastering the Hugging Face Diffusers library for generative AI and beyond._
