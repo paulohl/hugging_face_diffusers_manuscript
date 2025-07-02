@@ -18,3 +18,21 @@ This repository is structured to let you:
 
 Each subfolder in this directory corresponds to a chapter in the book:
 
+
+All chapters follow this structure:
+- `README.md`: Chapter description
+- `*.ipynb`: One or more Jupyter notebooks
+- `config/`: Model configuration and checkpoints (if needed)
+- `outputs/`: Generated samples and visual outputs
+
+---
+
+## 🚀 Quickstart: Run a Notebook from Any Chapter
+
+To try a notebook from Chapter 2:
+
+```bash
+git clone https://github.com/YOURNAME/YOURREPO.git
+cd YOURREPO/HFD_book_root/HFD_Chapter02
+pip install -r requirements.txt
+jupyter notebook diffusion_basics.ipynb
