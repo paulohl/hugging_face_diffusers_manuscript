@@ -19,6 +19,21 @@ This repository is structured to let you:
 
 Each subfolder in this directory corresponds to a chapter in the book:
 
+- [📁 HFD_Chapter01](./HFD_Chapter01) – Introduction to Hugging Face Diffusers Library  
+- [📁 HFD_Chapter02](./HFD_Chapter02) – Utilizing Hugging Face Diffusers for Text Classification  
+- [📁 HFD_Chapter03](./HFD_Chapter03) – Advanced Generative Tasks with Hugging Face Diffusors  
+- [📁 HFD_Chapter04](./HFD_Chapter04) – Sequence Labeling with Hugging Face Diffusers  
+- [📁 HFD_Chapter05](./HFD_Chapter05) – Transfer Learning for NLP Tasks  
+- [📁 HFD_Chapter06](./HFD_Chapter06) – Pipelines in Hugging Face Diffusers  
+- [📁 HFD_Chapter07](./HFD_Chapter07) – Schedulers in Hugging Face Diffusers
+- [📁 HFD_Chapter08](./HFD_Chapter08) – Advanced Inference Techniques  
+- [📁 HFD_Chapter09](./HFD_Chapter09) – Build Your Own AlphaZero AI  
+- [📁 HFD_Chapter10](./HFD_Chapter10) – Deep Q-Network and Atari Game  
+- [📁 HFD_Chapter11](./HFD_Chapter11) – Asynchronous Actor-Critic with gym-retro  
+- [📁 HFD_Chapter12](./HFD_Chapter12) – Road Ahead  
+- [📁 HFD_Chapter13](./HFD_Appendix1) – Appendix 1  
+
+
 All chapters follow this structure:
 
 - `README.md`: Chapter description  
