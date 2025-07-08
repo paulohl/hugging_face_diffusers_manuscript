@@ -1,10 +1,14 @@
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/huggingface/diffusers/77aadfee6a891ab9fcfb780f87c693f7a5beeb8e/docs/source/imgs/diffusers_library.jpg" width="300px">
+</p>
+
 # 📘 Hugging Face Diffusers: The Book
 
 _A practical, research-driven companion to mastering the Hugging Face Diffusers library for generative AI and beyond._
 
 ---
 
-Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**, where each chapter is a live, runnable, and expandable module.
+Welcome to the **official companion folder** for the book **“Hugging Face Diffusers”**  🤗, where each chapter is a live, runnable, and expandable module.
 
 This repository is structured to let you:
 
@@ -53,3 +57,21 @@ cd YOURREPO/HFD_book_root/HFD_Chapter02
 pip install -r requirements.txt
 jupyter notebook diffusion_basics.ipynb
 ```
+
+---
+
+## Copyright Notice
+© Paulo H. Leocadio, 2024. All Rights Reserved.  
+![image](https://github.com/user-attachments/assets/47592165-ad96-4f5e-abbb-533977806387)
+ORCID 0000-0002-4992-4541  
+(provisory) DOI® 10.6084/m9.figshare.28075280
+
+
+This repository, including its code, documentation, designs, and associated files, is copyrighted material owned by Paulo H. Leocadio.
+
+---
+
+![image](https://github.com/user-attachments/assets/f5bf31bd-4710-4a98-8fe4-71ec70bdbeab)
+# BPG Publications
+
+---
