@@ -72,6 +72,6 @@ This repository, including its code, documentation, designs, and associated file
 ---
 
 ![image](https://github.com/user-attachments/assets/f5bf31bd-4710-4a98-8fe4-71ec70bdbeab)
-# BPG Publications
+# BPB Publications
 
 ---
