@@ -1,5 +1,0 @@
-# Create a Dockerfile that specifies the Python environment and required dependencies
-FROM python:3.8-slim
-
-RUN pip install transformers torch tensorflow numpy
-CMD ["bash"]
