@@ -90,11 +90,7 @@ ___
 Paulo H. Leocadio is an esteemed Electronics and Computer Sciences Engineer with a rich background in VLSI Solid State. He holds a master’s in business administration with a focus on International Business and a post-graduate certificate in Data Sciences. With over 40 years of experience in the technology sector, including two decades at Microsoft Corp., Paulo is at the forefront of Smart Cities initiatives and AI research. An accomplished author with numerous articles and books on science and technology, he continues to shape the future of AI and data sciences.
 
 ___
-![image](https://github.com/user-attachments/assets/ffe21e92-004d-445f-9e50-5cb4689d33a3)
-# BPB Publications
-
-___
-## 
+## Chapter Outline
 
 | Section Title	                                                   | Chapter No	 | Chapter Title                   	| Page Count | 	 Chapter Delivery Date  |
 |------------------------------------------------------------------|-------------|----------------------------------------------------------|------------|--|
@@ -111,4 +107,8 @@ ___
 |                                                                  | 11.	       | Asynchronous Actor-Critic with gym-retro	                | 30	       |  |
 |                                                                  | 12.	       | Road Ahead	                                              | 15	       |  |
 |                                                                  |	           |                                              	total	    | 324	       |  |
+
+___
+![image](https://github.com/user-attachments/assets/ffe21e92-004d-445f-9e50-5cb4689d33a3)
+# BPB Publications
 
