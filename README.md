@@ -92,3 +92,23 @@ Paulo H. Leocadio is an esteemed Electronics and Computer Sciences Engineer with
 ___
 ![image](https://github.com/user-attachments/assets/ffe21e92-004d-445f-9e50-5cb4689d33a3)
 # BPB Publications
+
+___
+## 
+
+| Section Title	                                                   | Chapter No	 | Chapter Title                   	| Page Count | 	 Chapter Delivery Date  |
+|------------------------------------------------------------------|-------------|----------------------------------------------------------|------------|--|
+| Part 1: Foundations of  NLP and Transformer Models	             |  1.	       | Introduction to Hugging Face Diffusers Library           |	35         |	|
+| Part 2: Practical Applications of Hugging Face Diffusers Library |	2.	       | Utilizing Hugging Face Diffusers for Text Classification |	35	       |  |
+|	                                                                 |  3.	       | Advanced Generative Tasks with Hugging Face Diffusers	  | 25         |  |
+|	                                                                 |  4.	       | Sequence Labeling with Hugging Face Diffusers	          | 30	       |  |
+|                                                                  |  5.	       | Transfer Learning for NLP Tasks	                        | 25	       |  |
+| Part 3: Advanced Concepts in Hugging Face Diffusiers Library     |	6.	       | Pipelines in Hugging Face Diffusers                    	| 25         |  |
+|                                                                  |	7.	       | Schedulers in Hugging Face Diffusers	                    | 25	       |  |
+|                                                                  |	8.	       | Advanced Inference Techniques	                          | 25         |  |	
+| Part 4: Advanced Applications with Hugging Face Diffusiers	     |  9.	       | Build Your Own AlphaZero AI	                            | 15	       |  |
+|                                                                  | 10.	       | Deep Q-Network and Atari Game	                          | 30	       |  |
+|                                                                  | 11.	       | Asynchronous Actor-Critic with gym-retro	                | 30	       |  |
+|                                                                  | 12.	       | Road Ahead	                                              | 15	       |  |
+|                                                                  |	           |                                              	total	    | 324	       |  |
+
