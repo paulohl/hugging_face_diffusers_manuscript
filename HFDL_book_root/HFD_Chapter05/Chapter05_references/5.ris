@@ -1,0 +1,286 @@
+TY  - JOUR
+AU  - Anderson, B.
+AU  - McGrew, D.
+T1  - Machine Learning for Threat Hunting: Techniques and Tools
+JO  - Journal of Cybersecurity and Privacy
+Y1  - 2021
+VL  - 1
+IS  - 2
+SP  - 134–156
+EP  - 134–156
+ER  -
+TY  - CONF
+AU  - Lee, C.
+AU  - Kim, J.
+T1  - AI-Driven Digital Forensics: Challenges and Approaches
+T2  - Proceedings of the International Conference on Digital Forensics
+Y1  - 2020
+SP  - 98–112
+EP  - 98–112
+ER  -
+TY  - JOUR
+AU  - Sommer, Robin
+AU  - Paxson, Vern
+T1  - Outside the Closed World: On Using Machine Learning for Network Intrusion Detection
+JO  - Journal of Information Security
+Y1  - 2010
+SP  - 305
+EP  - 316
+UR  - https://api.semanticscholar.org/CorpusID:206578669
+M3  - https://doi.org/10.1109/sp.2010.25
+KW  - Machine learning;Intrusion detection;Computer security;National security;anomaly detection
+N2  - Anomaly based approaches in network intrusion detection suffer from evaluation, comparison and deployment which originate from the scarcity of adequate publicly available network trace datasets. Also, publicly available datasets are either outdated or generated in a controlled environment. Due to the ubiquity of cloud computing environments in commercial and government internet services, there is a need to assess the impacts of network attacks in cloud data centers. To the best of our knowledge, there is no publicly available dataset which captures the normal and anomalous network traces in the interactions between cloud users and cloud data centers. In this paper, we present an experimental platform designed to represent a practical interaction between cloud users and cloud services and collect network traces resulting from this interaction to conduct anomaly detection. We use Amazon web services (AWS) platform for conducting our experiments.
+ER  -
+TY  - JOUR
+AU  - Chen, Zhuangbin
+AU  - Liu, Jinyang
+AU  - Gu, Wenwei
+AU  - Su, Yuxin
+AU  - Lyu, Michael R.
+T1  - Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection
+JO  - Information Sciences
+Y1  - 2019
+VL  - 482
+SP  - 193
+EP  - 210
+UR  - https://arxiv.org/abs/2107.05908
+M3  - https://doi.org/10.48550/ARXIV.2107.05908
+KW  - Software Engineering (cs.SE)
+KW  - Machine Learning (cs.LG)
+KW  - FOS: Computer and information sciences
+U1  - 0360-0300
+N2  - Logs have been an imperative resource to ensure the reliability and continuity of many software systems, especially large-scale distributed systems. They faithfully record runtime information to facilitate system troubleshooting and behavior understanding. Due to the large scale and complexity of modern software systems, the volume of logs has reached an unprecedented level. Consequently, for log-based anomaly detection, conventional manual inspection methods or even traditional machine learning-based methods become impractical, which serve as a catalyst for the rapid development of deep learning-based solutions. However, there is currently a lack of rigorous comparison among the representative log-based anomaly detectors that resort to neural networks. Moreover, the re-implementation process demands non-trivial efforts, and bias can be easily introduced. To better understand the characteristics of different anomaly detectors, in this paper, we provide a comprehensive review and evaluation of five popular neural networks used by six state-of-the-art methods. Particularly, four of the selected methods are unsupervised, and the remaining two are supervised. These methods are evaluated with two publicly available log datasets, which contain nearly 16 million log messages and 0.4 million anomaly instances in total. We believe our work can serve as a basis in this field and contribute to future academic research and industrial applications.
+ER  -
+TY  - JOUR
+AU  - Han, J.
+AU  - Lee, Y.
+T1  - Threat Intelligence Integration in Security Information and Event Management Systems
+JO  - Computers & Security
+Y1  - 2022
+VL  - 112
+SP  - 102535
+EP  - 102535
+ER  -
+TY  - BOOK
+AU  - Stallings, William
+T1  - Cryptography and network security
+PB  - Pearson Education
+AD  - Boston
+Y1  - 2017/september
+ER  -
+TY  - JOUR
+AU  - Sharafaldin, I.
+AU  - Lashkari, A. H.
+AU  - Ghorbani, A. A.
+T1  - Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization
+JO  - Proceedings of the ICISSP 2018
+Y1  - 2018
+SP  - 108–116
+EP  - 108–116
+ER  -
+TY  - JOUR
+AU  - Devlin, Jacob
+AU  - Chang, Ming-Wei
+AU  - Lee, Kenton
+AU  - Toutanova, Kristina
+T1  - BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
+Y1  - 2018
+UR  - https://arxiv.org/abs/1810.04805
+M3  - https://doi.org/10.48550/ARXIV.1810.04805
+KW  - Computation and Language (cs.CL)
+KW  - FOS: Computer and information sciences
+ER  -
+TY  - JOUR
+AU  - Lee, J.
+T1  - BioBERT: A pre-trained biomedical language representation model for biomedical text mining
+JO  - Bioinformatics
+Y1  - 2020
+VL  - 36
+SP  - 1234,
+EP  - 1234, 1240
+ER  -
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Zhao, J.
+AU  - LeCun, Y.
+T1  - Character-level Convolutional Networks for Text Classificatio
+JO  - Advances in Neural Information Processing Systems
+Y1  - 2015
+VL  - 28
+SP  - 649–657
+EP  - 649–657
+UR  - https://proceedings.neurips.cc/paper_files/paper/2015/file/250cf8b51c773f3f8dc8b4be867a9a02-Paper.pdf
+ER  -
+TY  - JOUR
+AU  - Sanh, V.
+AU  - Debut, L.
+AU  - Chaumond, J.
+AU  - Wolf, T.
+T1  - DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter
+Y1  - 2019
+UR  - https://arxiv.org/abs/1910.01108/
+ER  -
+TY  - JOUR
+AU  - Srivastava, N.
+AU  - Hinton, G.
+AU  - Krizhevsky, A.
+AU  - Sutskever, I.
+AU  - Salakhutdinov, R.
+T1  - Dropout: A Simple Way to Prevent Neural Networks from Overfitting
+JO  - Journal of Machine Learning Research
+Y1  - 2014/january
+VL  - 15
+IS  - 1
+SP  - 1929–1958
+EP  - 1929–1958
+UR  - http://jmlr.org/papers/v15/srivastava14a.html
+KW  - deep learning
+KW  - model combination
+KW  - neural networks
+KW  - regularization
+U1  - 1532-4435
+N2  - Deep neural nets with a large number of parameters are very powerful machine learning systems. However, overfitting is a serious problem in such networks. Large networks are also slow to use, making it difficult to deal with overfitting by combining the predictions of many different large neural nets at test time. Dropout is a technique for addressing this problem. The key idea is to randomly drop units (along with their connections) from the neural network during training. This prevents units from co-adapting too much. During training, dropout samples from an exponential number of different thinned networks. At test time, it is easy to approximate the effect of averaging the predictions of all these thinned networks by simply using a single unthinned network that has smaller weights. This significantly reduces overfitting and gives major improvements over other regularization methods. We show that dropout improves the performance of neural networks on supervised learning tasks in vision, speech recognition, document classification and computational biology, obtaining state-of-the-art results on many benchmark data sets.
+ER  -
+TY  - JOUR
+AU  - Raffel, C.
+T1  - Exploring the limits of transfer learning with a unified text-to-text transformer
+Y1  - 2020
+ER  -
+TY  - CONF
+AU  - Pires, Telmo
+AU  - Schlinger, Eva
+AU  - Garrette, Dan
+T1  - How multilingual is Multilingual BERT?
+PB  - Association for Computational Linguistics
+Y1  - 2019
+SP  - 4996–5001
+EP  - 4996–5001
+UR  - https://arxiv.org/abs/1906.01502
+M3  - https://doi.org/10.48550/arXiv.1906.01502
+KW  - Computation and Language (cs.CL)
+KW  - Artificial Intelligence (cs.AI)
+KW  - Machine Learning (cs.LG)
+KW  - FOS: Computer and information sciences
+N2  - In this paper, we show that Multilingual BERT (M-BERT), released by Devlin et al. (2018) as a single language model pre-trained from monolingual corpora in 104 languages, is surprisingly good at zero-shot cross-lingual model transfer, in which task-specific annotations in one language are used to fine-tune the model for evaluation in another language. To understand why, we present a large number of probing experiments, showing that transfer is possible even to languages in different scripts, that transfer works best between typologically similar languages, that monolingual corpora can train models for code-switching, and that the model can find translation pairs. From these results, we can conclude that M-BERT does create multilingual representations, but that these representations exhibit systematic deficiencies affecting certain language pairs.
+ER  -
+TY  - JOUR
+AU  - Chalkidis, I.
+AU  - Fergadiotis, M.
+AU  - Malakasiotis, P.
+AU  - Aletras, N.
+AU  - Androutsopoulos, I.
+T1  - LEGAL-BERT: The Muppets straight out of law school
+Y1  - 2020
+UR  - https://arxiv.org/abs/2010.02559/
+ER  -
+TY  - JOUR
+AU  - Chen, Zhuangbin
+AU  - Liu, Jinyang
+AU  - Gu, Wenwei
+AU  - Su, Yuxin
+AU  - Lyu, Michael R.
+T1  - Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection
+JO  - Information Sciences
+Y1  - 2022
+VL  - 482
+SP  - 193–210
+EP  - 193–210
+UR  - https://arxiv.org/abs/2107.05908
+M3  - https://doi.org/10.48550/arXiv.2107.05908
+ER  -
+TY  - CONF
+AU  - Ruder, S.
+AU  - Peters, M. E.
+AU  - Swayamdipta, S.
+AU  - Wolf, T.
+T1  - Transfer Learning in NLP
+T2  - Proceedings of NAACL 2019 Tutorial
+Y1  - 2019
+ER  -
+TY  - JOUR
+AU  - Howard, J.
+AU  - Ruder, S.
+T1  - Universal language model fine-tuning for text classification
+Y1  - 2018
+ER  -
+TY  - JOUR
+AU  - Conneau, Alexis
+AU  - Khandelwal, Kartikay
+AU  - Goyal, Naman
+AU  - Chaudhary, Vishrav
+AU  - Wenzek, Guillaume
+AU  - Guzmán, Francisco
+AU  - Grave, Edouard
+AU  - Ott, Myle
+AU  - Zettlemoyer, Luke
+AU  - Stoyanov, Veselin
+T1  - Unsupervised Cross-lingual Representation Learning at Scale
+Y1  - 2020
+UR  - https://arxiv.org/abs/1911.02116
+M3  - https://doi.org/10.48550/arXiv.1911.02116
+N2  - This paper shows that pretraining multilingual language models at scale leads to significant performance gains for a wide range of cross-lingual transfer tasks. We train a Transformer-based masked language model on one hundred languages, using more than two terabytes of filtered CommonCrawl data. Our model, dubbed XLM-R, significantly outperforms multilingual BERT (mBERT) on a variety of cross-lingual benchmarks, including +14.6% average accuracy on XNLI, +13% average F1 score on MLQA, and +2.4% F1 score on NER. XLM-R performs particularly well on low-resource languages, improving 15.7% in XNLI accuracy for Swahili and 11.4% for Urdu over previous XLM models. We also present a detailed empirical analysis of the key factors that are required to achieve these gains, including the trade-offs between (1) positive transfer and capacity dilution and (2) the performance of high and low resource languages at scale. Finally, we show, for the first time, the possibility of multilingual modeling without sacrificing per-language performance; XLM-R is very competitive with strong monolingual models on the GLUE and XNLI benchmarks. We will make our code, data and models publicly available.
+ER  -
+TY  - JOUR
+AU  - Brown, Tom B.
+AU  - Mann, Benjamin
+AU  - Ryder, Nick
+AU  - Subbiah, Melanie
+AU  - Kaplan, Jared
+AU  - Dhariwal, Prafulla
+AU  - Neelakantan, Arvind
+AU  - Shyam, Pranav
+AU  - Sastry, Girish
+AU  - Askell, Amanda
+AU  - Agarwal, Sandhini
+AU  - Herbert-Voss, Ariel
+AU  - Krueger, Gretchen
+AU  - Henighan, Tom
+AU  - Child, Rewon
+AU  - Ramesh, Aditya
+AU  - Ziegler, Daniel M.
+AU  - Wu, Jeffrey
+AU  - Winter, Clemens
+AU  - Hesse, Christopher
+AU  - Chen, Mark
+AU  - Sigler, Eric
+AU  - Litwin, Mateusz
+AU  - Gray, Scott
+AU  - Chess, Benjamin
+AU  - Clark, Jack
+AU  - Berner, Christopher
+AU  - McCandlish, Sam
+AU  - Radford, Alec
+AU  - Sutskever, Ilya
+AU  - Amodei, Dario
+T1  - Language Models are Few-Shot Learners
+JO  - Advances in Neural Information Processing Systems
+Y1  - 2020
+VL  - 33
+SP  - 1877–1901
+EP  - 1877–1901
+UR  - https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf
+M3  - https://doi.org/10.48550/ARXIV.2005.14165
+KW  - Computation and Language (cs.CL)
+KW  - FOS: Computer and information sciences
+ER  -
+TY  - CONF
+AU  - Chen, Zhuangbin
+AU  - Liu, Jinyang
+AU  - Gu, Wenwei
+AU  - Su, Yuxin
+AU  - Lyu, Michael R.
+T1  - Experience Report: Deep Learning-based System Log Analysis for Anomaly Detection
+T2  - Proceedings of the 2018 ACM Conference on Computer and Communications Security
+PB  - Association for Computing Machinery (ACM)
+AD  - [Erscheinungsort nicht ermittelbar]
+Y1  - 2022
+SP  - 1285
+EP  - 1298
+UR  - https://arxiv.org/abs/2107.05908
+M3  - https://doi.org/10.48550/ARXIV.2107.05908
+KW  - Software Engineering (cs.SE)
+KW  - Machine Learning (cs.LG)
+KW  - FOS: Computer and information sciences
+U1  - 0360-0300
+N2  - Logs have been an imperative resource to ensure the reliability and continuity of many software systems, especially large-scale distributed systems. They faithfully record runtime information to facilitate system troubleshooting and behavior understanding. Due to the large scale and complexity of modern software systems, the volume of logs has reached an unprecedented level. Consequently, for log-based anomaly detection, conventional manual inspection methods or even traditional machine learning-based methods become impractical, which serve as a catalyst for the rapid development of deep learning-based solutions. However, there is currently a lack of rigorous comparison among the representative log-based anomaly detectors that resort to neural networks. Moreover, the re-implementation process demands non-trivial efforts, and bias can be easily introduced. To better understand the characteristics of different anomaly detectors, in this paper, we provide a comprehensive review and evaluation of five popular neural networks used by six state-of-the-art methods. Particularly, four of the selected methods are unsupervised, and the remaining two are supervised. These methods are evaluated with two publicly available log datasets, which contain nearly 16 million log messages and 0.4 million anomaly instances in total. We believe our work can serve as a basis in this field and contribute to future academic research and industrial applications.
+ER  -
