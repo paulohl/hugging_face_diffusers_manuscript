@@ -1,0 +1,306 @@
+<?xml version="1.0"?>
+<b:Sources SelectedStyle="" xmlns:b="http://schemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns="http://schemas.openxmlformats.org/officeDocument/2006/bibliography"><b:Source><b:Tag>Rab89</b:Tag><b:SourceType>ConferenceProceedings</b:SourceType><b:Guid>{C9CD5068-0D94-4AF0-82AA-0E3A555B799E}</b:Guid><b:Title>A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition</b:Title><b:Year>1989</b:Year><b:ConferenceName> Proceedings of the IEEE,</b:ConferenceName><b:Author><b:Author><b:NameList><b:Person><b:Last>Rabiner</b:Last><b:First>L.</b:First><b:Middle>R.</b:Middle></b:Person></b:NameList></b:Author></b:Author><b:Pages>257–286</b:Pages><b:Publisher>IEEE</b:Publisher><b:Volume>77</b:Volume><b:YearAccessed>2025</b:YearAccessed><b:MonthAccessed>January</b:MonthAccessed><b:DayAccessed>07</b:DayAccessed><b:URL>https://doi.org/10.1109/5.18626/</b:URL><b:DOI>10.1109/5.18626</b:DOI><b:RefOrder>2</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2018</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:Comments>arXiv preprint arXiv:1810.04805.</b:Comments>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>BERT: Pre-training of deep bidirectional transformers for language understanding</b:Title>
+		<b:Tag>devlin2018a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Devlin</b:Last>
+						<b:First>J.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Chang</b:Last>
+						<b:Middle>W.</b:Middle>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Lee</b:Last>
+						<b:First>K.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Toutanova</b:Last>
+						<b:First>K.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:JournalName>NAACL-HLT</b:JournalName>
+		<b:RefOrder>12</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2015</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:Comments>arXiv preprint arXiv:1508.01991.</b:Comments>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Bidirectional LSTM-CRF Models for Sequence Tagging</b:Title>
+		<b:Tag>huang2015a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Huang</b:Last>
+						<b:First>Z.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Xu</b:Last>
+						<b:First>W.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Yu</b:Last>
+						<b:First>K.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:JournalName>preprint</b:JournalName>
+		<b:RefOrder>10</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2001</b:Year>
+		<b:BIBTEX_Entry>proceedings</b:BIBTEX_Entry>
+		<b:SourceType>ConferenceProceedings</b:SourceType>
+		<b:Title>Conditional random fields: Probabilistic models for segmenting and labeling sequence data</b:Title>
+		<b:Tag>lafferty2001a</b:Tag>
+		<b:BookTitle>Proceedings of the Eighteenth International Conference on Machine Learning</b:BookTitle>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Lafferty</b:Last>
+						<b:Middle>A.</b:Middle>
+						<b:First>McCallum</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Pereira</b:Last>
+						<b:Middle>C. N.</b:Middle>
+						<b:First>F.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:ConferenceName>Proceedings of the Eighteenth International Conference on Machine Learning</b:ConferenceName>
+		<b:RefOrder>8</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2013</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:Comments>arXiv preprint arXiv:1301.3781.</b:Comments>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Efficient estimation of word representations in vector space</b:Title>
+		<b:Tag>mikolov2013a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Mikolov</b:Last>
+						<b:Middle>K. Corrado G.</b:Middle>
+						<b:First>Chen</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Dean</b:Last>
+						<b:First>J.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:RefOrder>3</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2014</b:Year>
+		<b:BIBTEX_Entry>proceedings</b:BIBTEX_Entry>
+		<b:SourceType>ConferenceProceedings</b:SourceType>
+		<b:Title>Glove: Global vectors for word representation</b:Title>
+		<b:Tag>pennington2014a</b:Tag>
+		<b:BookTitle>Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)</b:BookTitle>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Pennington</b:Last>
+						<b:First>J.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Socher</b:Last>
+						<b:First>R.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Manning</b:Last>
+						<b:Middle>D.</b:Middle>
+						<b:First>C.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>1532-1543</b:Pages>
+		<b:ConferenceName>Proceedings of the 2014 conference on empirical methods in natural language processing (EMNLP)</b:ConferenceName>
+		<b:RefOrder>1</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2005</b:Year>
+		<b:Volume>3</b:Volume>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Information extraction: Distilling structured data from unstructured text</b:Title>
+		<b:Tag>mccallum2005a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>McCallum</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>48–57</b:Pages>
+		<b:JournalName>Queue</b:JournalName>
+		<b:Number>9</b:Number>
+		<b:RefOrder>4</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2016</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:Comments>arXiv preprint arXiv:1603.01360.</b:Comments>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Neural architectures for named entity recognition</b:Title>
+		<b:Tag>lample2016a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Lample</b:Last>
+						<b:First>G.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Ballesteros</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Subramanian</b:Last>
+						<b:First>S.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Kawakami</b:Last>
+						<b:First>K.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Dyer</b:Last>
+						<b:First>C.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:JournalName>preprint</b:JournalName>
+		<b:RefOrder>7</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2008</b:Year>
+		<b:Volume>2</b:Volume>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>Opinion mining and sentiment analysis</b:Title>
+		<b:Tag>pang2008a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Pang</b:Last>
+						<b:First>B.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Lee</b:Last>
+						<b:First>L.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>1–135</b:Pages>
+		<b:JournalName>Foundations and Trends® in Information Retrieval</b:JournalName>
+		<b:Number>1-2</b:Number>
+		<b:RefOrder>2</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2011</b:Year>
+		<b:BIBTEX_Entry>proceedings</b:BIBTEX_Entry>
+		<b:SourceType>ConferenceProceedings</b:SourceType>
+		<b:Title>Part-of-Speech Tagging from 97% to 100%: Is It Time for Some Linguistics?</b:Title>
+		<b:Tag>manning2011a</b:Tag>
+		<b:BookTitle>Computational Linguistics and Intelligent Text Processing</b:BookTitle>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Manning</b:Last>
+						<b:Middle>D.</b:Middle>
+						<b:First>C.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:ConferenceName>Computational Linguistics and Intelligent Text Processing</b:ConferenceName>
+		<b:RefOrder>6</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2017</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:Comments>To appear.</b:Comments>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>spaCy 2: Natural language understanding with Bloom embeddings, convolutional neural networks and incremental parsing</b:Title>
+		<b:Tag>honnibal2017a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Honnibal</b:Last>
+						<b:First>M.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Montani</b:Last>
+						<b:First>I.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:JournalName>preprint</b:JournalName>
+		<b:RefOrder>11</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2016</b:Year>
+		<b:BIBTEX_Entry>proceedings</b:BIBTEX_Entry>
+		<b:SourceType>ConferenceProceedings</b:SourceType>
+		<b:Title>Structured prediction models for RNN based sequence labeling in clinical text</b:Title>
+		<b:Tag>jagannatha2016a</b:Tag>
+		<b:BookTitle>Proceedings of the Conference on Empirical Methods in Natural Language Processing</b:BookTitle>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Jagannatha</b:Last>
+						<b:First>A.</b:First>
+					</b:Person>
+					<b:Person>
+						<b:Last>Yu</b:Last>
+						<b:First>H.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>856–865</b:Pages>
+		<b:ConferenceName>Proceedings of the Conference on Empirical Methods in Natural Language Processing</b:ConferenceName>
+		<b:RefOrder>9</b:RefOrder></b:Source><b:Source>
+		<b:LCID>1033</b:LCID>
+		<b:Year>2014</b:Year>
+		<b:BIBTEX_Entry>article</b:BIBTEX_Entry>
+		<b:SourceType>JournalArticle</b:SourceType>
+		<b:Title>The Stanford CoreNLP Natural Language Processing Toolkit</b:Title>
+		<b:Tag>manning2014a</b:Tag>
+		<b:Author>
+			<b:Author>
+				<b:NameList>
+					<b:Person>
+						<b:Last>Manning</b:Last>
+						<b:Middle>D.</b:Middle>
+						<b:First>C.</b:First>
+					</b:Person>
+				</b:NameList>
+			</b:Author>
+		</b:Author>
+		<b:Pages>55–60</b:Pages>
+		<b:JournalName>Association for Computational Linguistics (ACL) System Demonstrations</b:JournalName>
+		<b:RefOrder>5</b:RefOrder></b:Source></b:Sources>
