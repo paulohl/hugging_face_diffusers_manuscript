@@ -6,6 +6,7 @@ from transformers import pipeline
 # Load pipelines
 sentiment_pipeline = pipeline("sentiment-analysis")
 ner_pipeline = pipeline("ner")
+
 # Example text
 text = "Zinnia Health provides excellent AI-driven care solutions."
 
