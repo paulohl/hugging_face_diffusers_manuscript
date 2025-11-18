@@ -12,5 +12,6 @@ text = "Hugging Face tools are innovative and used at Zinnia AI."
 # Perform sentiment analysis and entity recognition
 sentiment = sentiment_pipeline(text)
 entities = ner_pipeline(text)
+
 print("Sentiment:", sentiment)
 print("Entities:", entities)
